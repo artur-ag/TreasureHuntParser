@@ -31,7 +31,7 @@ python thm2csv.py 20210813162043_1.jpg
 ```
 
 Example input image:
-[TODO]
+![20210813162043_1a](https://user-images.githubusercontent.com/9512554/129323743-68d0b02a-9fc8-4d71-8134-9acd0faa51e2.jpg)
 
 Output:
 ```
