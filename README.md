@@ -1,7 +1,7 @@
 # About
 This is a simple tool that reads screenshots of the Treasure Hunter Monolith puzzle minigame Danganronpa V3, and exports a CSV file representing the board, automatically. It uses Python and OpenCV.
 
-The output CSV can be used in other tools, for example, https://github.com/DanLeEpicMan/UpdatedMonolithSolver.
+The output CSV can be used in other tools, for example, [DanLeEpicMan/UpdatedMonolithSolver](https://github.com/DanLeEpicMan/UpdatedMonolithSolver) and [artur-ag/treasurefinder](https://github.com/artur-ag/treasurefinder).
 
 # How to install
 - Install Python 3 (any recent version should work)
